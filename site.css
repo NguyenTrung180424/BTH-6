@@ -32,3 +32,42 @@
 .ul-2 li{
     border-left: 1px solid white;
 }
+.top{
+    display: flex;
+    position:absolute;
+    background-color: rgb(8, 8, 90);
+    padding-right: 240px;
+    margin-top: 27%;
+    margin-left: 26%;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+}
+.left-2{
+    margin-top: 3%;
+}
+.center{
+    position: absolute;
+    margin-left: 25%;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    margin-left: 35%;
+}
+.right-2{
+    margin-top: 3%;
+}
+.content-left{
+    position:absolute;
+    margin-top: 43%;
+    margin-left: 26%;
+}
+.b{
+    background-color: black;
+}
+.b ul li{
+    list-style: none;
+    float: left;
+}
